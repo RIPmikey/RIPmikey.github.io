@@ -1,8 +1,8 @@
 ## What happened to the illusive Michael Veach?
 
-You can use the [editor on GitHub](https://github.com/RIPmikey/RIPmikey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You may have asked yourself this question, I know I have. Michael Veach, former student of the program A.C.E. has been missing for months now, and yet still no information on his wherabouts. So who was the man known as Michael Veach?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 le epic meme :trollface:
 
